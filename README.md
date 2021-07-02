@@ -1,1 +1,1 @@
-# project The new python full stack development under completion.
+# project The new python full stack development project under completion.
